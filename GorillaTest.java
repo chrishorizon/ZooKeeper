@@ -11,6 +11,16 @@ public class GorillaTest {
 		kong.eatBananas();
 		kong.climb();
 		kong.displayEnergy();
+		
+		Bat bird = new Bat();
+		bird.attackTown();
+		bird.attackTown();
+		bird.attackTown();
+		bird.eatHumans();
+		bird.eatHumans();
+		bird.fly();
+		bird.fly();
+		bird.displayEnergy();
 
 	}
 
